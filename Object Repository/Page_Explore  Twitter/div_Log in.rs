@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in</name>
+   <tag></tag>
+   <elementGuidId>54a81356-9b4c-47b0-ad98-cb44b9713dbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layers']/div/div/div/div/div/div[2]/div[2]/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-1awozwy.r-6koalj.r-18u37iz.r-16y2uox.r-37j5jr.r-a023e6.r-b88u0q.r-1777fci.r-rjixqe.r-bcqeeo.r-q4m81j.r-qvutc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2b5eb3d-49d7-4f47-b232-94339db92634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>92dc7d29-bd65-43ea-81fb-96477568011b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-1awozwy r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0</value>
+      <webElementGuid>5ea86ce5-ac28-4836-a3d4-76a39ed513df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>fefcf52c-b7f3-424c-9f7e-5c70295b78a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layers&quot;)/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1p0dtai r-1d2f490 r-12vffkv r-1xcajam r-zchlnj&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-l5o3uw r-1upvrn0&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1777fci r-usiww2&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1wtj0ep r-1obr2lp&quot;]/div[@class=&quot;css-1dbjc4n r-1ydw1k6&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1pz39u2 r-18u37iz r-16y2uox&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1pz39u2 r-18u37iz r-16y2uox&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox&quot;]/a[@class=&quot;css-4rbku5 css-18t94o4 css-1dbjc4n r-c8f5pn r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-2yi16 r-1qi8awa r-1ny4l3l r-ymttw5 r-o7ynqc r-6416eg r-lrvibr&quot;]/div[@class=&quot;css-901oao r-1awozwy r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0&quot;]</value>
+      <webElementGuid>f17b9d9a-5f8f-4af6-87a9-eef53377d545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layers']/div/div/div/div/div/div[2]/div[2]/div/div/div/a/div</value>
+      <webElementGuid>dd8515ca-a2fb-42d1-838b-c31b9cd80dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People on Twitter are the first to know.'])[1]/following::div[5]</value>
+      <webElementGuid>482d5afd-e19d-4d7b-be56-e4149d453af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Don’t miss what’s happening'])[1]/following::div[6]</value>
+      <webElementGuid>1ff3ce41-e1ec-44dd-8690-783246852c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::div[1]</value>
+      <webElementGuid>01f56381-ebef-4c29-ae7d-32bd130d4ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>ad1bcd2d-fbe4-4a53-820c-46f8f9b6583d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>e3cc337e-1558-4721-ab06-cc8907e8dd3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
